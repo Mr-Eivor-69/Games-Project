@@ -35,7 +35,7 @@ client.on("message", emprator => {
 //===============================================================================\\
 client.on("message", emprator => {
   if (emprator.content === ">support") {
-    emprator.channel.send("https://discord.gg/DxytuacsyS");
+    emprator.channel.send("https://discord.gg/mXevext2Y8");
   }
 });
 //===============================================================================\\
